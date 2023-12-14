@@ -1,0 +1,58 @@
+This is my resume
+
+EDUCATION 
+Graduation 
+Nitte Meenakshi Institute of Technology 
+02/2021 - 04/2024,  
+Education 
+7.17 
+
+B.Tech 
+XII 
+Sainik School Tilaiya 
+04/2019 - 03/2020,  	78.6% 
+X 
+Sainik School Tilaiya 
+04/2017 - 03/2018,  	78.83% 
+WORK EXPERIENCE 
+Internship 
+Bharat Intern 
+04/2023 - Prt,  	Bangalore,Karnataka 
+Achievements/Tasks 
+
+Web Developer 
+Internship 
+Oasis Infobyte 
+04/2023 - Prt,  	Bangalore,Karnataka 
+Achievements/Tasks 
+
+Web Developer 
+SKILLS 
+
+PERSONAL PROJECTS 
+IoT based health monitoring system 
+Engineered a cutting-edge internet-enabled medical device that remotely monitors patients' vitals such as blood pressure, ECG, respiration rate, and blood oxygen saturation; reduced hospital readmission rates by 25% It is applied the code in generic ESP8266 to process all the data. 
+Personal Portfolio 
+I have created a personal portfolio which is a compilation of my academic and professional material that exemplifies my .beliefs, skills, educations etc. 
+Bus Reservation System using Django 
+
+It can help streamline the booking process, improve customer satisfaction, and increase efficiency and profitability for bus companies. 
+CERTIFICATES 
+Hackathon (11/2021 - 11/2021) 
+Participated in Mini Hackathon organized by NMIT Hacks 
+NPTEL-Python 
+Cleared NPTEL Python with a aggregate marks of 66 out of 100 
+NSS- Debate Competition (01/2022) 
+ACHIEVEMENTS 
+Elected as class Representative in 1st year.
+ (02/2021 - 08/2021) 
+Participated in Online Debate Competition in 2021. 
+Organised Anadyanta Fest in 2022. 
+Participated in Mini Hackathon organized by NMIT Hacks in
+Nov 2021 
+LANGUAGES 
+English 
+Native or Bilingual Proficiency 
+Hindi 
+Native or Bilingual Proficiency 
+HOBBIES AND INTERESTS 
